@@ -7,6 +7,18 @@
         $compliments = array();
         // Compliments
         array_push($compliments, 'You are so skilled at your job! I\'m so jealous of your work ethic.');
+        array_push($compliments, '@alicia, I have to say your eyebrows are _fantastic_! Really, life goals.');
+        array_push($compliments, 'Don\'t listen to what dumb boys say. Y\'all are so far above them.');
+        array_push($compliments, 'I just wanted to let you gals know: You are the most perfect you there is.');
+        array_push($compliments, 'It\'s been awhile! Just wanted to remind you that your perspectives are _super_ refreshing!');
+        array_push($compliments, 'Hey @alicia! Is that your picture next to "charming" in the dictionary?');
+        array_push($compliments, 'Hey: You\'re even more beautiful on the inside than you are on the outside.');
+        array_push($compliments, 'How is it that you guys always look great, even in sweatpants?');
+        array_push($compliments, 'Psst: When you say, "I meant to do that," I totally believe you.');
+        array_push($compliments, 'Your hair looks stunning. Just thought you should know!');
+        array_push($compliments, 'Y\'all are more fun than a ball pit filled with candy. (And seriously, what could be more fun than that?)');
+        array_push($compliments, 'You should be thanked more often. So thank you!!');
+        array_push($compliments, 'Just in case no one\'s told you recently: You\re a great example to others.');
 
         $data = array(
             'channel'     => '#general',
