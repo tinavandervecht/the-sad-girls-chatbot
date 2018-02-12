@@ -19,6 +19,14 @@
         array_push($compliments, 'Y\'all are more fun than a ball pit filled with candy. (And seriously, what could be more fun than that?)');
         array_push($compliments, 'You should be thanked more often. So thank you!!');
         array_push($compliments, 'Just in case no one\'s told you recently: You\re a great example to others.');
+        array_push($compliments, 'Just wanted to give you all the love and all the attention you need.');
+        array_push($compliments, 'You\'re like really pretty and skinny.');
+        array_push($compliments, '@tina, woah your ideas are so valued.');
+        array_push($compliments, '@tina, stop working so hard girl.');
+        array_push($compliments, 'Can I get your opinion on something? You always have such a great perspective.');
+        array_push($compliments, 'You shouldn\'t wear makeup, it\'s messing with perfection!');
+        array_push($compliments, 'Ladies: you are all such special snowflakes');
+
 
         $data = array(
             'channel'     => '#general',
